@@ -71,9 +71,10 @@ The goal is to build a robust text classification pipeline capable of handling s
 
 📊 Visualizations
 🎯 Training Accuracy
-![Alt text](images\BiLSTM_Model.png)
-![Alt text](images\GRU_Model.png)
-![Alt text](images\CNN_Model.png)
+![Alt text](images/BiLSTM_Model.png)
+![Alt text](images/GRU_Model.png)
+![Alt text](images/CNN_Model.png)
+
 
 
 🚀 Getting Started
