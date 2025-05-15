@@ -3,6 +3,7 @@ Welcome to the Coleridge Initiative NLP Project!
 This repository presents deep learning models (BiLSTM, GRU, CNN) developed to classify cleaned text labels extracted from research publications and datasets.
 The goal is to build a robust text classification pipeline capable of handling short, domain-specific text entries using modern NLP techniques.
 
+```
 🗂️ Project Structure
 📁 Coleridge Initiative Project/
 ├── datasets/
@@ -14,6 +15,7 @@ The goal is to build a robust text classification pipeline capable of handling s
 ├── requirements.txt
 │──.venv/                             ← Virtual environment
 └── README.md
+```
 
 📌 Objectives
 - 🧼 Clean and preprocess publication and dataset title text
@@ -121,8 +123,10 @@ Future improvements may include exploring transformer-based models or integratin
 
 This work demonstrates how deep learning techniques can support accurate classification of concise text data, enabling smarter indexing and retrieval in textual applications.
 
+```
 📬 Contact
 Data Scientist: Heba Abdelhadi
 📧 habdelhadi08@gmail.com
 📍 Shelby Township, MI
 📅 Capstone Project for Qwasar Data Science & Machine Learning Bootcamp
+```
