@@ -43,6 +43,7 @@ The goal is to build a robust text classification pipeline capable of handling s
 | **Notebook**      | Jupyter Notebook                       |
 
 🔄 Data Pipeline
+
 1- 🔗 Merge pub_title + dataset_title
 
 2- 🔡 Tokenize & Pad using Keras Tokenizer
