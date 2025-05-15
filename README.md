@@ -1,5 +1,7 @@
 📊 Coleridge Initiative NLP Classification Project
+
 Welcome to the Coleridge Initiative NLP Project!
+
 This repository presents deep learning models (BiLSTM, GRU, CNN) developed to classify cleaned text labels extracted from research publications and datasets.
 The goal is to build a robust text classification pipeline capable of handling short, domain-specific text entries using modern NLP techniques.
 
@@ -115,6 +117,7 @@ jupyter notebook coleridge_initiative_model.ipynb
 - Validation accuracy capped around 68–74% despite hyperparameter tuning.
 
 🏁 Conclusion
+
 This project highlights the effectiveness of neural network architectures—BiLSTM, GRU, and CNN—for classifying short text sequences.
 Despite the inherent challenges of working with limited context and class imbalance, the models achieved validation accuracies ranging from 72% to 74%.
 
